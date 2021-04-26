@@ -20,5 +20,8 @@
   "homepage": "https://github.com/nayeon-hub/tomorrow-house#readme",
   "dependencies": {
     "node-sass": "^5.0.0"
+  },
+  "devDependencies": {
+    "sass-lint": "^1.13.1"
   }
 }
