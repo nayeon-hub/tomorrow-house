@@ -1,3 +1,10 @@
+@import './constants/_colors.css';
 @import './base/fonts';
 @import './base/normalize';
 @import './base/reset';
+
+$hongsi: 1;
+
+p {
+  line-height: $hongsi;
+}
